@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/enbot-doctorwords-1/static/css/main.a3486e2b.css",
+    "main.js": "/enbot-doctorwords-1/static/js/main.1fcbe60e.js",
+    "index.html": "/enbot-doctorwords-1/index.html",
+    "main.a3486e2b.css.map": "/enbot-doctorwords-1/static/css/main.a3486e2b.css.map",
+    "main.1fcbe60e.js.map": "/enbot-doctorwords-1/static/js/main.1fcbe60e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3486e2b.css",
+    "static/js/main.1fcbe60e.js"
+  ]
+}
